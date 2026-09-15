@@ -31,7 +31,7 @@ Desde que estuve en una competencia en la escuela me ha interesado mucho la auto
 <td width="50%">
 
 ### ☁️ Servicios en la Nube
-La primera vez que conoci los servicios en la nube siempre me ha intrigrado como es que funcionan y todos los procesos que se requieren para ofrecerle a las personas y empresas estos servicios, es por eso que he estado aprendiendo el uso de los servicios de **AWS**.
+La primera vez que conoci los servicios en la nube siempre me ha intrigado como es que funcionan y todos los procesos que se requieren para ofrecerle a las personas y empresas estos servicios, es por eso que he estado aprendiendo el uso de los servicios de **AWS**.
 
 </td>
 </tr>
